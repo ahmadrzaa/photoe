@@ -1,11 +1,11 @@
 # photoe
-Live >  ahmadrzaa.github.io/photoe/ 
+#Live> https://ahmadrzaa.github.io/photoe/
 <br>
 
 ![Screenshot 2024-07-30 152818](https://github.com/user-attachments/assets/e427a7ab-bb1c-46be-863a-94cc151c7f0a) <br>
 # Photoe
 
-Photoe is a simple image editor application that allows users to apply various filters and transformations to their images. The app provides an intuitive interface for adjusting brightness, saturation, inversion, and grayscale settings. Users can also rotate and flip images, and save their edited versions.
+#Photoe is a simple image editor application that allows users to apply various filters and transformations to their images. The app provides an intuitive interface for adjusting brightness, saturation, inversion, and grayscale settings. Users can also rotate and flip images, and save their edited versions.
 
 ## Features
 
